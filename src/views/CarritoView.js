@@ -12,7 +12,7 @@ function CarritoView() {
           Carrito de Compras
         </h1>
       </div>
-      <table class="table">
+      <table className="table">
         <thead>
           <tr>
             <th>Nombre</th>
